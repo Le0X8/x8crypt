@@ -1,0 +1,24 @@
+{
+  "name": "x8crypt",
+  "version": "1.0.2",
+  "description": "Encrypting/Decrypting library for Node.JS and Web.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Le0X8/x8crypt.git"
+  },
+  "keywords": [
+    "Encryption",
+    "Decryption",
+    "Secret"
+  ],
+  "author": "LeoX DEV",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Le0X8/x8crypt/issues"
+  },
+  "homepage": "https://github.com/Le0X8/x8crypt#readme"
+}
